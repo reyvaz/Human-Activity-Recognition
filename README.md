@@ -1,11 +1,11 @@
 <br>
-<a href="http://nbviewer.jupyter.org/github/reyvaz/Human-Activity-Recognition/blob/master/human_act_rec.ipynb" target="_blank">Click Here</a>
-to see the Notebook online in Jupyter nbviewer.
 
 # Human Activity Recognition
 
+<a href="http://nbviewer.jupyter.org/github/reyvaz/Human-Activity-Recognition/blob/master/human_act_rec.ipynb" target="_blank">**Click Here**</a>
+to see the Notebook online in Jupyter nbviewer.
 
-#### Notebook testing various classification algorithms to detect human activity from mobile phone accelerometer and gyroscope data
+### Notebook testing various classification algorithms to detect human activity from mobile phone accelerometer and gyroscope data
 
 The best performing algorithm is a GBM Classifier with **99.4% accuracy** and average precision, recall, and F1 of over 99% on 6 classes. 
 
